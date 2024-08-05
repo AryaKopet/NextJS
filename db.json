@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Arya Wijaya",
+      "npm": 22554010012,
+      "matkul": "Teknologi Informasi"
+    },
+    {
+      "id": 2,
+      "nama": "Dita Pitaloka",
+      "npm": 22554010008,
+      "matkul": "Teknologi Informasi"
+    },
+    {
+      "id": 3,
+      "nama": "Nuraina",
+      "npm": 22554010023,
+      "matkul": "Teknologi Informasi"
+    },
+    {
+      "id": 4,
+      "nama": "Haikal Saputra",
+      "npm": 22554010036,
+      "matkul": "Teknologi Informasi"
+    },
+    {
+      "id": 5,
+      "nama": "Gerry Christabel",
+      "npm": 22554010010,
+      "matkul": "Teknologi Informasi"
+    },
+    {
+      "id": 6,
+      "nama": "Muhammad Abdul Latif",
+      "npm": 22554010018,
+      "matkul": "Teknologi Informasi"
+    }
+  ]
+}
